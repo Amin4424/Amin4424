@@ -10,9 +10,6 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=Amin4424&theme=radical&hide_border=true'>
 </p>
 
-## **TOP LANGUAGES**
-<p align = 'center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin4424&theme=radical&hide_border=true"/>
-</p>
+
 
 
